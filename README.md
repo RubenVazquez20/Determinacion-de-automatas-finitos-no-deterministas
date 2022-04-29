@@ -1,1 +1,1 @@
-# Determinaci-n-de-aut-matas-finitos-no-deterministas
+# Determinacion de automatas finitos no deterministas
